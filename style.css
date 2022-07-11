@@ -1,0 +1,38 @@
+img {
+    width: 100%;
+}
+
+#head-one {
+    font-size: 40px
+}
+
+#img-article {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#para-one {
+    font-size: 200%;
+}
+
+.donationexploring-button {
+    background-color: tomato;
+    border-color: tomato;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+
+#helping-hand {
+    width: 90%;
+}
+
+.second-part {
+    padding-top: 5%;
+    display: flex;
+}
