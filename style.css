@@ -1,3 +1,7 @@
+body {
+    border: 1px solid black;
+}
+
 img {
     width: 100%;
 }
@@ -50,4 +54,138 @@ img {
 
 .third-para {
     padding-top: 5%;
+}
+
+.forth-part {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.icon {
+    width: 10%;
+}
+
+.first-box {
+    background-color: wheat;
+    border-color: black;
+    border-top: 5%;
+    border-bottom: 5%;
+    border-left: 5%;
+    border-right: 5%;
+
+}
+
+.second-box {
+    background-color: wheat;
+    border-color: black;
+    border-top: 5%;
+    border-bottom: 5%;
+    border-left: 5%;
+    border-right: 5%;
+    margin-left: 10%;
+}
+
+.third-box {
+    background-color: wheat;
+    border-color: black;
+    border-top: 5%;
+    border-bottom: 5%;
+    border-left: 5%;
+    border-right: 5%;
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+.forth-box {
+    background-color: wheat;
+    border-color: black;
+    border-top: 5%;
+    border-bottom: 5%;
+    border-left: 5%;
+    border-right: 5%;
+    margin-top: 10%;
+    margin-left: 10%;
+
+
+}
+
+.second {
+    display: flex;
+}
+
+.first {
+    display: flex;
+}
+
+.box-article {
+    margin-left: 3%;
+}
+
+.sun {
+    width: 95%;
+    margin-top: 10%;
+}
+
+#sun-one {
+    padding-top: 2%;
+    margin-right: 3%;
+}
+
+#sun-two {
+    padding-top: 2%;
+}
+
+#sun-three {
+    padding-top: 2%;
+}
+
+
+#sun-img {
+    display: flex;
+}
+
+.fifth-part {
+    margin-top: 10%;
+    text-align: center;
+}
+
+
+
+.life-part {
+    width: 25%;
+    border: 1px solid black;
+
+}
+
+.sixth-part {
+    display: flex;
+    margin-bottom: 5%;
+}
+
+#one {
+    margin-left: 5%;
+}
+
+#two {
+    margin-left: 5%;
+}
+
+#three {
+    margin-left: 5%;
+}
+
+a {
+    color: tomato;
+    font-size: 20px;
+}
+
+.finishing {
+    text-align: center;
+    border: 1px solid black;
+    background-color: black;
+    color: red;
+}
+
+#finishing-para {
+    color: white;
 }
